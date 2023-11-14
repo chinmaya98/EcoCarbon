@@ -1,0 +1,150 @@
+User Name,Mode of Transport,Distance Traveled (In Miles),Frequency(Per Week),Start Location,End Location,Fuel Type,Fuel Efficiency,Monthly Emissions (kg CO2)
+Kim Smith,Car,25,5,Sunnyvale,San Francisco,gasoline,21,209.52
+Tim Nova,Car,22,4,San Jose,Stanford,electric,28,110.63
+Leslie Kleina,Car,18,4,San Carlos,Sunnyvale,electric,22,115.2
+Mary Jane,Car,19,4,Palo Alto,San Francisco,gasoline,24,111.47
+John Doe,Car,10,5,Mountain View,Santa Clara,electric,20,88
+Nick Jones,Car,9,2,Santa Clara,Milpitas,electric,27,23.47
+Daniel Smith,Car,9,3,Santa Clara,Milpitas,electric,24,39.6
+John Jacob,Car,13,4,Redwood City,Los Altos,gasoline,27,67.79
+Sara Rebecca,Car,8,5,Redwood City,Palo Alto,gasoline,23,61.22
+George Edward,Car,12,4,Mountain View,Milpitas,electric,29,58.26
+Peter Parker,Car,5,1,Sunnyvale,Santa Clara,electric,20,8.8
+Robert Downey,Car,25,2,Sunnyvale,San Francisco,gasoline,21,83.81
+Eligibeth Tylor,Car,15,4,Milpitas,Palo Alto,gasoline,23,91.83
+Kai Le,Car,25,3,Sunnyvale,San Francisco,gasoline,21,125.71
+Robert Patel,Car,23,1,San Jose,Union City,gasoline,22,36.8
+Cameron Lo,Car,18,3,San Carlos,Sunnyvale,gasoline,23,82.64
+Harper Castillo,Car,14,2,Palo Alto,Santa Clara,electric,30,32.85
+Harper Dominguez,Car,16,2,Redwood City,San Francisco,gasoline,23,48.97
+Ezra Vu,Car,8,3,Redwood City,Palo Alto,gasoline,26,32.49
+Jade Hu,Car,13,3,Redwood City,Los Altos,electric,23,59.69
+Miles Chang,Car,24,3,Livermore,Milpitas,electric,26,97.48
+Gianna Holmes,Car,14,5,Palo Alto,Santa Clara,gasoline,26,94.77
+Jameson Thomas,Car,23,5,San Jose,Union City,electric,28,144.57
+Jameson Pena,Car,23,1,San Jose,Union City,gasoline,24,33.73
+Bella Wu,Car,15,1,Milpitas,Palo Alto,gasoline,21,25.14
+Jose Wong,Car,21,2,Campbell,Palo Alto,gasoline,26,56.86
+Lucas Richardson,Car,13,5,Redwood City,Los Altos,gasoline,21,108.95
+Jacob Moore,Car,23,5,San Jose,Union City,electric,25,161.92
+Luna Lu,Car,23,1,San Jose,Union City,gasoline,25,32.38
+Bella Tran,Car,13,5,Redwood City,Los Altos,electric,24,95.33
+Ivy Chau,Car,19,4,Palo Alto,San Francisco,gasoline,23,116.31
+Jordan Kumar,Car,24,2,Livermore,Milpitas,electric,28,60.34
+Sophia Gutierrez,Walk,19,1,Palo Alto,San Francisco,electric,27,24.77
+Eli Dang,Car,14,3,Palo Alto,Santa Clara,gasoline,23,64.28
+Lillian Lewis,Car,7,3,Santa Clara,San Jose,gasoline,24,30.8
+Serenity Cao,Car,20,1,Campbell,Fremont,electric,28,25.14
+Parker Lai,Car,9,4,Santa Clara,Milpitas,gasoline,30,42.24
+Charles Simmons,Car,18,1,San Carlos,Sunnyvale,electric,25,25.34
+Jayden Luu,Car,16,2,Redwood City,San Francisco,electric,24,46.93
+Brooks Richardson,Car,7,5,Santa Clara,San Jose,electric,27,45.63
+Ivy Thompson,Car,18,5,San Carlos,Sunnyvale,electric,27,117.33
+Peyton Wright,Car,17,5,Mountain House,Livermore,gasoline,26,115.08
+Wyatt Dinh,Car,5,1,Sunnyvale,Santa Clara,gasoline,30,5.87
+Ruby Alexander,Car,20,4,Campbell,Fremont,electric,30,93.87
+Axel Oh,Car,8,4,Redwood City,Palo Alto,electric,27,41.72
+Axel Ramirez,Car,22,1,San Jose,Stanford,gasoline,27,28.68
+Liliana Chang,Car,16,4,Redwood City,San Francisco,gasoline,23,97.95
+Leonardo Carter,Car,21,2,Campbell,Palo Alto,electric,30,49.28
+Landon Gonzales,Car,22,1,San Jose,Stanford,electric,29,26.7
+Amelia Dominguez,Walk,21,1,Campbell,Palo Alto,gasoline,20,36.96
+Silas Ross,Public Transport,14,3,Palo Alto,Santa Clara,gasoline,23,64.28
+Jeremiah Cheng,Car,13,4,Redwood City,Los Altos,gasoline,21,87.16
+Chloe Chin,Car,8,2,Redwood City,Palo Alto,gasoline,26,21.66
+Ella Martinez,Car,23,3,San Jose,Union City,electric,30,80.96
+Gianna Jones,Car,9,1,Santa Clara,Milpitas,gasoline,24,13.2
+Austin Chow,Car,23,2,San Jose,Union City,gasoline,23,70.4
+Ella Chen,Car,16,1,Redwood City,San Francisco,electric,23,24.49
+Ruby Kaur,Car,6,1,Mountain View,Sunnyvale,electric,20,10.56
+Savannah Morales,Car,19,1,Palo Alto,San Francisco,electric,23,29.08
+Luca Powell,Car,11,3,San Carlos,Palo Alto,electric,27,43.02
+Parker Thao,Car,23,1,San Jose,Union City,gasoline,22,36.8
+Ryan Vo,Car,6,5,Mountain View,Sunnyvale,electric,30,35.2
+Isabella Ngo,Car,15,5,Milpitas,Palo Alto,gasoline,30,88
+Leah Vega,Car,9,3,Santa Clara,Milpitas,electric,23,41.32
+Jaxson Liu,Car,8,5,Redwood City,Palo Alto,gasoline,25,56.32
+Santiago f Ross,Car,9,3,Santa Clara,Milpitas,electric,25,38.02
+Layla Bell,Car,21,3,Campbell,Palo Alto,electric,28,79.2
+Bella Morales,Public Transport ,23,4,San Jose,Union City,electric,24,134.93
+Eliza Kang,Walk,8,3,Redwood City,Palo Alto,gasoline,29,29.13
+Gabriel Reyes,Car,6,3,Mountain View,Sunnyvale,gasoline,30,21.12
+Piper Garcia,Car,9,2,Santa Clara,Milpitas,electric,27,23.47
+Jacob Cheng,Car,25,1,Sunnyvale,San Francisco,electric,30,29.33
+Nathan Hong,Car,19,2,Palo Alto,San Francisco,gasoline,27,49.54
+Chloe Kim,Car,12,5,Mountain View,Milpitas,electric,29,72.83
+Isaac Guzman,Car,7,3,Santa Clara,San Jose,electric,27,27.38
+Julian Ford,Car,23,3,San Jose,Union City,electric,26,93.42
+Kinsley Liang,Car,13,4,Redwood City,Los Altos,gasoline,26,70.4
+Wesley Yu,Car,7,1,Santa Clara,San Jose,electric,29,8.5
+Serenity Martin,Car,20,2,Campbell,Fremont,gasoline,20,70.4
+Ethan Sanchez,Car,17,4,Mountain House,Livermore,gasoline,24,99.73
+David Sanchez,Car,15,4,Milpitas,Palo Alto,gasoline,26,81.23
+Elias Hsu,Car,11,4,San Carlos,Palo Alto,electric,22,70.4
+Luca Phan,Car,15,1,Milpitas,Palo Alto,electric,25,21.12
+Olivia Xi,Car,14,4,Palo Alto,Santa Clara,gasoline,28,70.4
+Alice Luu,Car,20,5,Campbell,Fremont,electric,26,135.38
+Leonardo Ng,Car,18,2,San Carlos,Sunnyvale,electric,30,42.24
+Peyton Edwards,Car,25,5,Sunnyvale,San Francisco,gasoline,29,151.72
+Axel Patel,Car,32,2,Livermore,Santa Clara,gasoline,23,97.95
+Eva Chavez,Car,7,5,Santa Clara,San Jose,electric,23,53.57
+Savannah Lee,Car,22,4,San Jose,Stanford,electric,22,140.8
+Mia Grant,Car,16,2,Redwood City,San Francisco,gasoline,28,40.23
+Eli Richardson,Car,23,1,San Jose,Union City,gasoline,27,29.99
+Eloise Perry,Car,18,3,San Carlos,Sunnyvale,gasoline,22,86.4
+Ian Cheng,Car,8,2,Redwood City,Palo Alto,electric,27,20.86
+Penelope Chan,Car,32,2,Livermore,Santa Clara,electric,29,77.68
+Sofia Vasquez,Car,6,4,Mountain View,Sunnyvale,electric,24,35.2
+Anthony Baker,Car,15,1,Milpitas,Palo Alto,gasoline,28,18.86
+Lucas Luong,Car,15,3,Milpitas,Palo Alto,gasoline,27,58.67
+Xavier Patel,Car,23,4,San Jose,Union City,gasoline,26,124.55
+Robert Soto,Car,15,1,Milpitas,Palo Alto,gasoline,27,19.56
+Nevaeh Jiang,Car,10,4,Mountain View,Santa Clara,electric,25,56.32
+Chloe Reyes,Public Transport,14,3,Palo Alto,Santa Clara,electric,30,49.28
+Lucy Edwards,Walk,20,5,Campbell,Fremont,electric,24,146.67
+Luna Edwards,Walk,20,4,Campbell,Fremont,gasoline,24,117.33
+Stella Daniels,Walk,6,4,Mountain View,Sunnyvale,gasoline,28,30.17
+Ayla Ma,Car,8,4,Redwood City,Palo Alto,gasoline,25,45.06
+Matthew Avila,Car,12,1,Mountain View,Milpitas,gasoline,23,18.37
+Gianna Lim,Car,18,3,San Carlos,Sunnyvale,electric,26,73.11
+Joseph Tan,Car,20,1,Campbell,Fremont,gasoline,24,29.33
+Connor Lai,Car,22,4,San Jose,Stanford,gasoline,29,106.81
+Ava Owens,Car,20,3,Campbell,Fremont,gasoline,24,88
+Dylan Aguilar,Car,11,1,San Carlos,Palo Alto,gasoline,23,16.83
+Leah Zheng,Car,5,1,Sunnyvale,Santa Clara,electric,21,8.38
+Jade Pham,Car,7,1,Santa Clara,San Jose,electric,22,11.2
+Theodore Bui,Car,25,2,Sunnyvale,San Francisco,electric,27,65.19
+Asher Chan,Car,21,5,Campbell,Palo Alto,electric,26,142.15
+Ezekiel Brown,Car,14,3,Palo Alto,Santa Clara,electric,24,61.6
+Peyton Allen,Car,21,2,Campbell,Palo Alto,gasoline,27,54.76
+Parker Joseph,Car,7,1,Santa Clara,San Jose,electric,20,12.32
+Kayden Ortiz,Car,19,2,Palo Alto,San Francisco,gasoline,20,66.88
+Lillian Desai,Car,18,5,San Carlos,Sunnyvale,gasoline,20,158.4
+Avery Gutierrez,Car,17,4,Mountain House,Livermore,electric,20,119.68
+Caroline Sandoval,Car,16,3,Redwood City,San Francisco,electric,20,84.48
+Hailey Lim,Car,40,1,Mountain House,Milpitas,electric,29,48.55
+Roman Liang,Car,20,1,Campbell,Fremont,electric,30,23.47
+Elias Rojas,Car,22,5,San Jose,Stanford,electric,26,148.92
+Quinn Lai,Car,14,4,Palo Alto,Santa Clara,gasoline,21,93.87
+Clara Le,Car,17,4,Mountain House,Livermore,electric,23,104.07
+Chloe Yoon,Car,24,3,Livermore,Milpitas,gasoline,22,115.2
+Abigail Simmons,Car,16,5,Redwood City,San Francisco,electric,30,93.87
+Ayla Espinoza,Car,14,3,Palo Alto,Santa Clara,gasoline,24,61.6
+Nova Lin,Car,12,3,Mountain View,Milpitas,electric,27,46.93
+Sadie Singh,Car,19,3,Palo Alto,San Francisco,electric,22,91.2
+Aaron Powell,Car,23,3,San Jose,Union City,gasoline,23,105.6
+Jameson Vargas,Car,12,3,Mountain View,Milpitas,gasoline,29,43.7
+Logan Young,Car,18,3,San Carlos,Sunnyvale,electric,23,82.64
+Wyatt Cheung,Car,10,5,Mountain View,Santa Clara,electric,24,73.33
+Lucas Zhu,Walk,1,2,Milpitas,Milpitas,gasoline,20,3.52
+Emily Hong,Public Transport,14,4,Palo Alto,Santa Clara,electric,25,78.85
+Luke Ramos,Public Transport,6,1,Mountain View,Sunnyvale,electric,27,7.82
+Maya Gupta,Car,40,1,Mountain House,Milpitas,electric,20,70.4
+Eliana Ha,Car,15,4,Milpitas,Palo Alto,electric,26,81.23
+Lillian Cheng,Car,23,1,San Jose,Union City,electric,30,26.99
+Alexander Pena,Car,11,1,San Carlos,Palo Alto,electric,21,18.44
+Leonardo Mai,Car,19,1,Palo Alto,San Francisco,gasoline,22,30.4
+Jack Phillips,Car,13,2,Redwood City,Los Altos,gasoline,25,36.61
+Scarlett Delgado,Car,24,2,Livermore,Milpitas,gasoline,22,76.8
+Jack Rogers,Car,25,1,Sunnyvale,San Francisco,gasoline,27,32.59
+Violet Huynh,Car,21,2,Campbell,Palo Alto,electric,30,49.28
